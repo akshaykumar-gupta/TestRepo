@@ -2,4 +2,6 @@ Welcome to Tasks::
 
 Task 1: Open Outlook
 
+Task 2: REad mails.
+
 v1.0
